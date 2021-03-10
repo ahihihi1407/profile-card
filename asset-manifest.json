@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/profile-card/static/css/main.342966c7.chunk.css",
+    "main.js": "/profile-card/static/js/main.684fb4d0.chunk.js",
+    "main.js.map": "/profile-card/static/js/main.684fb4d0.chunk.js.map",
+    "runtime-main.js": "/profile-card/static/js/runtime-main.1d23a663.js",
+    "runtime-main.js.map": "/profile-card/static/js/runtime-main.1d23a663.js.map",
+    "static/js/2.4db3a17d.chunk.js": "/profile-card/static/js/2.4db3a17d.chunk.js",
+    "static/js/2.4db3a17d.chunk.js.map": "/profile-card/static/js/2.4db3a17d.chunk.js.map",
+    "static/js/3.43aa5383.chunk.js": "/profile-card/static/js/3.43aa5383.chunk.js",
+    "static/js/3.43aa5383.chunk.js.map": "/profile-card/static/js/3.43aa5383.chunk.js.map",
+    "index.html": "/profile-card/index.html",
+    "static/css/main.342966c7.chunk.css.map": "/profile-card/static/css/main.342966c7.chunk.css.map",
+    "static/js/2.4db3a17d.chunk.js.LICENSE.txt": "/profile-card/static/js/2.4db3a17d.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-bottom.a34eb319.svg": "/profile-card/static/media/bg-pattern-bottom.a34eb319.svg",
+    "static/media/bg-pattern-card.b61daebd.svg": "/profile-card/static/media/bg-pattern-card.b61daebd.svg",
+    "static/media/bg-pattern-top.dae77b1f.svg": "/profile-card/static/media/bg-pattern-top.dae77b1f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d23a663.js",
+    "static/js/2.4db3a17d.chunk.js",
+    "static/css/main.342966c7.chunk.css",
+    "static/js/main.684fb4d0.chunk.js"
+  ]
+}
